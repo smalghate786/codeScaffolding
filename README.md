@@ -65,3 +65,14 @@ Clone the repo and run:
 ```bash
 mvn spring-boot:run
 
+Example with Postman
+Method: POST
+
+URL: http://localhost:8080/api/scaffold/crud
+
+Body: raw → JSON (see above)
+
+Click Send and Download
+
+Save the .zip file
+
